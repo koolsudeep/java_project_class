@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83a9f6de-45f6-43ef-aff4-8bb2387f121f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y67m7fVWsO6YbNxE2iNy7R293O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Shapes">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.pacakage.Shape.Main" />
+      <module name="Shape" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cognizant.shapes.Shapes" />
+      <module name="Shape" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cognizant.shapes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Shapes" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Shapes" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83a9f6de-45f6-43ef-aff4-8bb2387f121f" name="Default Changelist" comment="" />
+      <created>1582251350519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582251350519</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1216" height="173" key="GridCell.Tab.0.bottom" timestamp="1582607621792">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1216" height="173" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1582482997227" />
+    <state width="1218" height="180" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1582272702827" />
+    <state width="1216" height="173" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1582607621792" />
+    <state width="1218" height="180" key="GridCell.Tab.0.bottom/1280.23.2560.1417/0.23.1280.732@0.23.1280.732" timestamp="1582256838676" />
+    <state width="1216" height="173" key="GridCell.Tab.0.center" timestamp="1582607621791">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1216" height="173" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1582482997226" />
+    <state width="1218" height="180" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1582272702826" />
+    <state width="1216" height="173" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1582607621791" />
+    <state width="1218" height="180" key="GridCell.Tab.0.center/1280.23.2560.1417/0.23.1280.732@0.23.1280.732" timestamp="1582256838674" />
+    <state width="1216" height="173" key="GridCell.Tab.0.left" timestamp="1582607621790">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1216" height="173" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1582482997225" />
+    <state width="1218" height="180" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1582272702825" />
+    <state width="1216" height="173" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1582607621790" />
+    <state width="1218" height="180" key="GridCell.Tab.0.left/1280.23.2560.1417/0.23.1280.732@0.23.1280.732" timestamp="1582256838673" />
+    <state width="1216" height="173" key="GridCell.Tab.0.right" timestamp="1582607621792">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1216" height="173" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1582482997227" />
+    <state width="1218" height="180" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1582272702826" />
+    <state width="1216" height="173" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1582607621792" />
+    <state width="1218" height="180" key="GridCell.Tab.0.right/1280.23.2560.1417/0.23.1280.732@0.23.1280.732" timestamp="1582256838675" />
+    <state x="329" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1582337312779">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state x="329" y="216" key="com.intellij.ide.util.TipDialog/0.23.1280.730@0.23.1280.730" timestamp="1582300169931" />
+    <state x="329" y="217" key="com.intellij.ide.util.TipDialog/0.23.1280.732@0.23.1280.732" timestamp="1582251403251" />
+    <state x="329" y="212" key="com.intellij.ide.util.TipDialog/1280.23.2560.1417/0.23.1280.716@0.23.1280.716" timestamp="1582337312779" />
+    <state x="44" y="23" key="new project wizard" timestamp="1582600085660">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="44" y="23" key="new project wizard/0.23.1280.729@0.23.1280.729" timestamp="1582599676183" />
+    <state x="44" y="23" key="new project wizard/0.23.1280.730@0.23.1280.730" timestamp="1582600085660" />
+    <state x="357" y="23" key="refactoring.ChangeSignatureDialog" timestamp="1582265608253">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="357" y="23" key="refactoring.ChangeSignatureDialog/0.23.1280.730@0.23.1280.730" timestamp="1582265608253" />
+    <state x="315" y="79" width="670" height="58" key="search.everywhere.popup" timestamp="1582252798438">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="315" y="79" width="670" height="58" key="search.everywhere.popup/0.23.1280.732@0.23.1280.732" timestamp="1582252798438" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/cognizant/shapes/Shapes.java</url>
+          <line>5</line>
+          <properties class="com.cognizant.shapes.Shapes" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
